@@ -1,0 +1,15 @@
+
+
+
+.gre{
+    background-color: rgba(66, 136, 95, 0.795);  
+} 
+
+div{
+    padding-bottom: 20px; 
+    padding-top: 20px;
+} 
+#bor{ 
+border: 3px solid  rgba(66, 136, 95, 0.795) ;
+ width: 200px;
+}
